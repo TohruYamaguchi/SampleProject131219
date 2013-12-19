@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
-
+//ƒRƒƒ“ƒg‚ğ’Ç‰Á‚µ‚Ü‚µ‚½B
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
